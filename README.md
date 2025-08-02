@@ -1,31 +1,33 @@
-# React Task Tracker
+# 📦 React Task Tracker
 
-A simple task tracking application built with HTML, CSS, React, and JavaScript. This app allows users to manage their tasks effectively and includes a timer to track the duration spent on each task.
+A travel destination application built with HTML, CSS, React, and JavaScript. This app allows users to explore popular travel destinations, view details, and get inspired for their next trip.
 
-## Demo
+## 🔗 Demo
 
 _A live demo link will be added here soon._
 
-## Features
+## ✨ Features
 
-- Task Management : Add, view, and manage tasks efficiently.
+- **Destination Listings**: Browse a collection of popular travel destinations.
 
-- Timer Functionality : Track the time spent on individual tasks to enhance productivity.
+- **Destination Details**: View location highlights, descriptions, and images.
 
-- Responsive Design : Ensures usability across various devices and screen sizes.
+- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 
-## Installation
+- **Reusable Components**: Built with React for scalability and maintainability.
+
+## ⚙️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yacineaaddi/React-Task-Tracker.git
+   git clone https://github.com/yacineaaddi/React-Travel-App.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd React-Task-Tracker
+   cd React-Travel-App
    ```
 
 3. Install dependencies:
@@ -39,31 +41,33 @@ _A live demo link will be added here soon._
    npm start
    ```
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- HTML : For structuring the web content.
+- 💻 HTML: Structure of the application.
 
-- CSS : For styling the application.
+- 🎨 CSS: Styling and layout.
 
-- JavaScript : For implementing dynamic functionalities.
+- ⚙️ JavaScript: Functionality and interactivity.
 
-- React : For building the user interface components.
+- ⚛️ React: Component-based UI development.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
-React-Task-Tracker/
+React-Travel-App/
 ├── public/
-│ ├── index.html
-│ └── favicon.ico
+│   ├── index.html
+│   └── favicon.ico
 ├── src/
-│ ├── components/
-│ │ ├── Header.js
-│ │ ├── Task.js
-│ │ └── TaskList.js
-│ ├── App.js
-│ ├── index.js
-│ └── styles.css
+│   ├── Components/
+│   │   ├── Navbar.js
+│   │   ├── Hero.js
+│   │   ├── Destinations.js
+│   │   ├── Footer.js
+│   │   └── ...
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
 ├── package.json
 ├── package-lock.json
 ├── README.md
@@ -71,16 +75,16 @@ React-Task-Tracker/
 └── .gitignore
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 📬 Contact
 
 Yacine Aaddi - [yacineaaddi@gmail.com](mailto:yacineaaddi@gmail.com)
 
-Project Link: [https://github.com/yacineaaddi/React-Task-Tracker](https://github.com/yacineaaddi/React-Task-Tracker)
+Project Link: [https://github.com/yacineaaddi/React-Travel-App](https://github.com/yacineaaddi/React-Travel-App)
