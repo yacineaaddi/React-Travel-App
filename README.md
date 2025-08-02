@@ -8,13 +8,13 @@ _A live demo link will be added here soon._
 
 ## ✨ Features
 
-- **Destination Listings**: Browse a collection of popular travel destinations.
+- **Destination Listings** : Browse a collection of popular travel destinations.
 
-- **Destination Details**: View location highlights, descriptions, and images.
+- **Destination Details** : View location highlights, descriptions, and images.
 
-- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
+- **Responsive Design** : Optimized for desktops, tablets, and mobile devices.
 
-- **Reusable Components**: Built with React for scalability and maintainability.
+- **Reusable Components** : Built with React for scalability and maintainability.
 
 ## ⚙️ Installation
 
@@ -43,13 +43,13 @@ _A live demo link will be added here soon._
 
 ## 🛠️ Technologies Used
 
-- 💻 HTML: Structure of the application.
+- 💻 HTML : Structure of the application.
 
-- 🎨 CSS: Styling and layout.
+- 🎨 CSS : Styling and layout.
 
-- ⚙️ JavaScript: Functionality and interactivity.
+- ⚙️ JavaScript : Functionality and interactivity.
 
-- ⚛️ React: Component-based UI development.
+- ⚛️ React : Component-based UI development.
 
 ## 📁 Folder Structure
 
