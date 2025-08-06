@@ -1,4 +1,4 @@
-# 📦 React Task Tracker
+# 📦 React Travel App
 
 A travel destination application built with HTML, CSS, React, and JavaScript. This app allows users to explore popular travel destinations, view details, and get inspired for their next trip.
 
@@ -7,10 +7,6 @@ A travel destination application built with HTML, CSS, React, and JavaScript. Th
 _A live demo link will be added here soon._
 
 ## ✨ Features
-
-- **Destination Listings** : Browse a collection of popular travel destinations.
-
-- **Destination Details** : View location highlights, descriptions, and images.
 
 - **Responsive Design** : Optimized for desktops, tablets, and mobile devices.
 
