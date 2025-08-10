@@ -56,12 +56,10 @@ React-Travel-App/
 │   └── favicon.ico
 ├── src/
 │   ├── Components/
-│   │   ├── Navbar.js
-│   │   ├── Hero.js
-│   │   ├── Destinations.js
-│   │   ├── Footer.js
+│   │   ├── App.js
+│   │   ├── Form.js
+│   │   ├── Item.js
 │   │   └── ...
-│   ├── App.js
 │   ├── index.js
 │   └── styles.css
 ├── package.json
